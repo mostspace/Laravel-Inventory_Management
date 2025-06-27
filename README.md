@@ -56,29 +56,6 @@
   - Create Shippers and add Shipper area he will be responsible for.
   - Restrict any user from all the permissions.
 
-## 💹 &nbsp; Technologies
-
-> Project is created with:
-
-#### Backend
-
-- Express
-- Mongoose
-- Json Web Token (For authentication)
-- bcryptjs (for data encryption)
-
-#### Frontend
-
-- React JS
-- Redux (Manage app state)
-- React-router (To handle routing)
-- Axios (For http requests)
-- React Bootstrap
-- React-toastify (To handle success and error messages)
-- Formik (To handle forms state and validation)
-- Yup (To handle client side form validation)
-- Sass
-
 ## 💡 &nbsp; Key Concepts
 
 - MVC (Model-View-Controller)
